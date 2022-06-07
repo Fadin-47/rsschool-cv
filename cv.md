@@ -45,3 +45,16 @@ return i;
 }
 return -1;
 }`
+___
+#### Work experience
+developer at Sberbank one year
+
+
+[github](https://github.com/Fadin-47/rsschool-cv)
+___
+#### Courses:
+* Microsoft courses SQL
+* [JavaScript learn](https://learn.javascript.ru/)
+___
+#### Languages:
+My english is very good :)
